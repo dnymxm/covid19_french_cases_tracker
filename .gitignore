@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#VSC stuff
+.vscode/
+
+#App data save file
+covid19_french_datas.json
