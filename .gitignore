@@ -130,6 +130,7 @@ dmypy.json
 
 #VSC stuff
 .vscode/
+.DS_Store
 
 #App data save file
 covid19_french_datas.json
