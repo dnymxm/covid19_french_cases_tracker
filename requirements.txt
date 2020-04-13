@@ -1,6 +1,5 @@
 Package           Version    Location                                          
 ----------------- ---------- --------------------------------------------------
-app               0.1        /Users/mdiony/Projets/covid19_french_cases_tracker
 astroid           2.3.3      
 autopep8          1.5.1      
 certifi           2020.4.5.1 
